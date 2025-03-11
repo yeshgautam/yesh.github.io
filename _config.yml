@@ -1,0 +1,8 @@
+remote_theme: pmarsceill/just-the-docs
+title: "Yesh Gautam"
+description: "A place to capture my thoughts and share my work."
+
+# Enable navigation links
+nav_order: 1
+aux_links:
+  "GitHub Repo": "https://github.com/yeshgautam"
